@@ -1,0 +1,10 @@
+# .gitignore
+
+# object files
+**.o
+**/tsp
+
+# venv
+**/.venv/
+**/requirements.txt
+**/tmp/
