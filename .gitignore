@@ -1,10 +1,6 @@
 # .gitignore
 
-# object files
+# object files and executables
 **.o
-**/tsp
+tsp
 
-# venv
-**/.venv/
-**/requirements.txt
-**/tmp/
